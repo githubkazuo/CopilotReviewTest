@@ -1,4 +1,4 @@
-<!-- レビューコメントはすべて日本語でお願いします -->
+<!-- I want to review in Japanese. -->
 
 ## 要件
 xxxの改修をしました。
@@ -18,4 +18,4 @@ mm/dd(曜日) までにレビューお願いします！
 [fyi] → 参考情報
 <!-- for GitHub Copilot review  rule-->
 
-<!-- レビューコメントはすべて日本語でお願いします -->
+<!-- I want to review in Japanese. -->
