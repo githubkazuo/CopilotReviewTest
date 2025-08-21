@@ -1,8 +1,10 @@
-# Copilot Review Instructions
+<!-- レビューコメントはすべて日本語でお願いします -->
 
-## 言語設定
-- すべてのレビューコメントは日本語で記述してください
-- Respond in Japanese for all code review comments
+## 要件
+xxxの改修をしました。
+
+## テスト項目
+- [x] xxxxxx
 
 ## レビュー方針
 - セキュリティの問題を重視してください
@@ -10,8 +12,14 @@
 - コードの可読性について言及してください
 - Visual Basicのベストプラクティスに従っているかチェックしてください
 
-## コメントスタイル
-- [must] 必ず修正が必要な問題
-- [suggestion] 改善提案
-- [question] 質問や確認事項
-- [info] 参考情報
+## レビューに関して
+レビューする際には、以下のprefix(接頭辞)を付けましょう。
+<!-- for GitHub Copilot review rule -->
+[must] → かならず変更してね  
+[imo] → 自分の意見だとこうだけど修正必須ではないよ(in my opinion)  
+[nits] → ささいな指摘(nitpick) 
+[ask] → 質問  
+[fyi] → 参考情報
+<!-- for GitHub Copilot review  rule-->
+
+<!-- レビューコメントはすべて日本語でお願いします -->
