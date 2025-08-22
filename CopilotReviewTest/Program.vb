@@ -12,5 +12,6 @@ Module Program
         If numbers.Length > 0 Then
             Console.WriteLine("The first number is: " & numbers(0))
         End If
+        Dim Sum As Integer = 0
     End Sub
 End Module
